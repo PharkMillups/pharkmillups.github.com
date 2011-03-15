@@ -40,8 +40,48 @@ div.container_babel {
 	border-bottom:1px solid #dddddd;
     height: 45px; 
 	text-align:left
+}
+
+#about {
+	width:325px; 
+	float:left;
+	text-align:left;
+	border-left:1px solid #dddddd;
+	padding-left:10px;
+	}
+
+#newpost {
+	text-align:left;
+	border-bottom:1px solid #dddddd;
+	}
+
+#recents {
+	margin-top:10px;
+	margin-right:20px;
+	text-align:left;
+	float:left;
+}
+
+ul.posts {
+	list-style-type: none;
+	}
+
+ul.posts li {
+	margin-left:-40px;
+	line-height:25px;
 	
 }
+
+ul.other_stuff {
+	list-style-type: none;
+	}
+
+ul.other_stuff li {
+	margin-left:-40px;
+	line-height:25px;
+	
+}
+
 
 
 #head h1 {
@@ -96,14 +136,6 @@ div.container_babel {
 	margin:0 none;
 }
 
-
-
-#main_content {
-	border-bottom:1px solid #dddddd;
-	text-align:left;
-			
-}
-
 #main_content h1 {
 	font-size:28px;
 	text-align:left;
@@ -143,8 +175,6 @@ h2 {
 
 
 div.square {
-	background:#Fff;
-	border-bottom:1px solid #dddddd;
 	margin-bottom:15px;
 	margin-top:10px;
 	margin-right:20px;

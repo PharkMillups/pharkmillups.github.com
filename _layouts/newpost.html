@@ -1,36 +1,31 @@
 <!doctype html>
 
 <head> 
-	<link type="text/css" rel="stylesheet" href="css/site.css"> 
+	<link type="text/css" rel="stylesheet" href="/css/site.css"> 
 	<title>I'm Just Tryna Put Some Food Up on This Foreman</title> 
 </head> 
 <body> 
 <div class="container"> 
 	<div id="head"> 
 	<h1><a href="/" title="that's me">TheMarkPhillips</a></h1> 
+	<!--
 	<ul id="link_list"> 	
-	<li><a href="#" title="dollaz"><img src="images/dollar_currency_sign.png"></a></li> 
-	<li><a href="#" title="music"><img src="images/headphones.png" alt="headphone"></a></li> 
-	<li><a href="#" title="la langue"><img src="images/tongue.jpg"></a></li> 
-	<li><a href="#" title="about me"><img src="images/MrBomb.png" alt="bomb"></a></li> 
-	</ul> 	
+	<li><a href="#" title="dollaz"><img src="/images/dollar_currency_sign.png"></a></li> 
+	<li><a href="#" title="music"><img src="/images/headphones.png" alt="headphone"></a></li> 
+	<li><a href="#" title="la langue"><img src="/images/tongue.jpg"></a></li> 
+	<li><a href="#" title="about me"><img src="/images/MrBomb.png" alt="bomb"></a></li> 
+	</ul> 
+	-->	
 	</div> 
 	<div id="main_content">	
 		<h1>{{ page.title }}</h1> 
 	</div> 
-	<div class ="newpost"> 
+	<div id="newpost"> 
 	{{ content }}
-	<div style="clear:both;"></div> 
+	</div>
+	<div style="clear:both;"></div> 	
 	<div id="footer"> 
-		<h1>themarkphillips.com is copyright of me, circa now. </h1> 
-	</div> 
-	
-	<ul class="posts">
-	    {% for post in site.posts %}
-	      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-	    {% endfor %}
-	  </ul>
-	
- 
+	<h1>themarkphillips.com is copyright of me, circa now</h1> 
+	</div>
 </div> 
 </body>
