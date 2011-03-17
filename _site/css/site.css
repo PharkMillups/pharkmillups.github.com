@@ -22,16 +22,10 @@ div.container_babel {
 
  }
 
-#babel_class {
-	margin:0 auto;
-	text-align:center;
-	width:850px;
-	border:2px solid #dddddd;	
-}
 
 #head {	
-	border-bottom:1px solid #dddddd;
-    height: 45px; 
+	border-bottom:4px solid #dddddd;
+    height: 40px; 
 	text-align:right;
 } 
 
@@ -48,11 +42,13 @@ div.container_babel {
 	text-align:left;
 	border-left:1px solid #dddddd;
 	padding-left:10px;
+	margin-top:10px;
 	}
 
 #newpost {
-	text-align:left;
-	border-bottom:1px solid #dddddd;
+	text-align:justify;
+	width:630px;
+	float:left;
 	}
 
 #recents {
@@ -136,8 +132,10 @@ ul.other_stuff li {
 	margin:0 none;
 }
 
+#main_content {width:630px;}
+
 #main_content h1 {
-	font-size:28px;
+	font-size:22px;
 	text-align:left;
 }
 
@@ -151,6 +149,22 @@ h2 {
 	
 }
 
+div.what_else {
+	width:180px;
+	float:left;
+	margin-top: 35px;
+	text-align:left;
+	margin-left:40px;
+	font-size:12px;
+	
+}
+
+ul.what_else {list-style-type: none;} 
+
+ul.what_else li {
+	margin-left:-42px;
+	padding:7px;
+	}
 #subset {
 	border-bottom:1px solid #dddddd;	
 }
@@ -180,6 +194,7 @@ div.square {
 	margin-right:20px;
 	text-align:left;
 	float:left;
+	width:494px;
 }
 
 
