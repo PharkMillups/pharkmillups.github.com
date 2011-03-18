@@ -1,9 +1,29 @@
+---
+layout: default
+title: TheMarkPhillips
+---
 
 <!doctype html>
 
 <head> 
 	<link type="text/css" rel="stylesheet" href="css/site.css"> 
 	<title>I'm Just Tryna Put Some Food Up on This Foreman</title> 
+	
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-17041758-2']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+
 </head> 
 <body> 
 <div class="container"> 
@@ -20,22 +40,27 @@
 	 -->
 	</div>
 	<div class ="square"> 
-		<h2>Latest Blog Posts</h2>		
+		<h2>Blogs</h2>		
 		<ul class="posts">
 	    {% for post in site.posts %}
-	      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			<li class="date"><i><strong>Posted on {{ post.date | date_to_string }}</strong></i></li>
 	    {% endfor %}
 	  </ul>
-		<h2>Of Interest</h2>
+		<h2>Appearances</h2>
 		<ul class ="other_stuff">
 			<li><a href="http://twit.tv/floss129">FLOSS Weekly 129: Riak</a></li>
 			<li><a href="http://thechangelog.com/post/1525527959/episode-0-4-0-riak-revisited-with-andy-gross-mark-philli">The Changelog Episode 0.4.0 - Riak Revisited</a></li>
 	</div>	
 	<div id="about">		
-<p>Mark Phillips is the Community Manager at Basho Techologies, the company that leads development on software like <a href="http://wiki.basho.com">Riak <a href="https://github.com/basho/webmachine">Webmachine</a>, and <a href="https://github.com/basho/rebar/wiki">Rebar</a>. 
+<p>Mark Phillips is the Community Manager at <a href="http://www.basho.com">Basho Techologies</a>, the company that leads development on software like <a href="http://wiki.basho.com">Riak <a href="https://github.com/basho/webmachine">Webmachine</a>, and <a href="https://github.com/basho/rebar/wiki">Rebar</a>. 
 </p>	
-<p>Mark is passionate about community building  .
-</p>	
+<p>Mark is passionate about community building, open source software, single malt scotch, and Hall and Oates.</p>	
+
+<ul class="links"><li><a href="https://twitter.com/pharkmillups">@pharkmillups on Twitter</a></li>
+<li<a href="http://www.linkedin.com/pub/mark-phillips/7/b75/255">LinkedIn</a></li>
+<li>email: <strong>mark@basho.com</strong></li>
+</ul>
 		
 	<!-- Links I'll need later
 	<ul> 	
@@ -52,4 +77,5 @@
 		<h1>themarkphillips.com is copyright of me, circa now. </h1> 
 	</div>  
 </div> 
+
 </body>

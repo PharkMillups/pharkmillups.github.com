@@ -15,13 +15,6 @@ div.container {
 	padding-top:30px;
 }
 
-div.container_babel {
-	margin:0 auto;
-	width:850px;
-	padding-top:30px;
-
- }
-
 
 #head {	
 	border-bottom:4px solid #dddddd;
@@ -29,12 +22,17 @@ div.container_babel {
 	text-align:right;
 } 
 
-
-#head_babel {
-	border-bottom:1px solid #dddddd;
-    height: 45px; 
-	text-align:left
+p.date {
+	font-size:12px;
+	color:#dddddd;
+	margin-top:-2px;
 }
+
+li.date {
+	font-size:11px;
+	color:#2F4F4F;
+	margin-bottom:3px;
+	}
 
 #about {
 	width:325px; 
@@ -78,6 +76,10 @@ ul.other_stuff li {
 	
 }
 
+#disqus_thread {
+	margin-top:30px;
+	border-top:1px solid #dddddd;
+	}
 
 
 #head h1 {
@@ -90,7 +92,9 @@ ul.other_stuff li {
 		
 }
 
+ul.links {list-style-type: none;}
 
+ul.links li {margin-left:-40px;}
 #text h1 {text-align:left;}
 
 #head a {
@@ -135,7 +139,7 @@ ul.other_stuff li {
 #main_content {width:630px;}
 
 #main_content h1 {
-	font-size:22px;
+	font-size:18px;
 	text-align:left;
 }
 
@@ -150,12 +154,13 @@ h2 {
 }
 
 div.what_else {
-	width:180px;
+	width:190px;
 	float:left;
 	margin-top: 35px;
 	text-align:left;
-	margin-left:40px;
+	margin-left:30px;
 	font-size:12px;
+	background-color:#dddddd;
 	
 }
 
@@ -165,6 +170,15 @@ ul.what_else li {
 	margin-left:-42px;
 	padding:7px;
 	}
+
+ul.what_else li a {text-decoration:none;}
+ul.what_else li a:hover {text-decoration:underline;}
+
+ul.what_else h1 {text-align:left;size:15px;}	
+
+
+	
+	
 #subset {
 	border-bottom:1px solid #dddddd;	
 }
@@ -197,6 +211,7 @@ div.square {
 	width:494px;
 }
 
+div.square h2 {font-size:20px;}
 
 #rundown {
 	background:#000;
@@ -225,7 +240,6 @@ div.square {
 	width:50%;
 }
 
-#grime_box {width:400px;}
 #text img {margin-top:30px; float:left;}
 
 #itin_box {
@@ -237,14 +251,3 @@ border:2px solid #dddddd;
 margin-top:50px;
 }
 
-#itin_box_content {padding:10px;}
-#special_text {height:300px; width:50%;float:left; margin-top:30px; margin-left:100px;}
-#special_text_content {padding:8px 30px 0 177px;line-height:25px;}
-#special_text_content h1 {font-size:25px;font-family:helvetica;}
-#special_text img {margin-top:92px;}
-h3 {font-size:13px;}
-h4 {font-family:helvetica;}
-#bio {border:1px solid; margin-bottom:15px;height:177px;}
-#bio_content {padding:5px;}
-#bio img {float:right; margin-right:6px; margin-top:5px;}
-#pic img {margin:10px;margin-left:0;}
