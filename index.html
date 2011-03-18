@@ -21,6 +21,11 @@
 	</div>
 	<div class ="square"> 
 		<h2>Latest Blog Posts</h2>		
+		<ul class="posts">
+	    {% for post in site.posts %}
+	      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	    {% endfor %}
+	  </ul>
 		<h2>Of Interest</h2>
 		<ul class ="other_stuff">
 			<li><a href="http://twit.tv/floss129">FLOSS Weekly 129: Riak</a></li>
