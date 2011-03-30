@@ -2,7 +2,7 @@ body {
     background: #FFF;
     margin: 0;
     padding: 0;
-	font-family:"Lucida Grande",Verdana,Arial,sans-serif;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size:14px;
 	line-height:18px;	
 }
@@ -34,6 +34,12 @@ li.date {
 	margin-bottom:3px;
 	}
 
+li.summary {
+	width:450px;
+	margin-top:-12px;
+	text-align:justify;}
+
+
 #about {
 	width:325px; 
 	float:left;
@@ -45,7 +51,7 @@ li.date {
 
 #newpost {
 	text-align:justify;
-	width:630px;
+	width:600px;
 	float:left;
 	}
 
@@ -58,7 +64,7 @@ li.date {
 
 ul.posts {
 	list-style-type: none;
-	}
+}
 
 ul.posts li {
 	margin-left:-40px;
@@ -154,16 +160,18 @@ h2 {
 }
 
 div.what_else {
-	width:190px;
+
 	float:left;
-	margin-top: 35px;
+	margin-top: 20px;
 	text-align:left;
-	margin-left:30px;
+	margin-left:40px;
 	font-size:12px;
-	background-color:#dddddd;
-	
 }
 
+.what_else h2 {
+	font-size:15px;
+	color:#c60e0e;
+	}
 ul.what_else {list-style-type: none;} 
 
 ul.what_else li {
@@ -212,6 +220,8 @@ div.square {
 }
 
 div.square h2 {font-size:20px;}
+
+.who {font-size:20px;}
 
 #rundown {
 	background:#000;

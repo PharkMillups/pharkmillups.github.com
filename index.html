@@ -40,19 +40,17 @@ title: TheMarkPhillips
 	 -->
 	</div>
 	<div class ="square"> 
-		<h2>Blogs</h2>		
+		<h2>Recent Blog Posts</h2>		
 		<ul class="posts">
 	    {% for post in site.posts %}
 	      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 			<li class="date"><i><strong>Posted on {{ post.date | date_to_string }}</strong></i></li>
+			<li class="summary">{{ post.summary }}</li>
 	    {% endfor %}
-	  </ul>
-		<h2>Other Stuff</h2>
-		<ul class ="other_stuff">
-			<li><a href="http://twit.tv/floss129">FLOSS Weekly 129: Riak</a></li>
-			<li><a href="http://thechangelog.com/post/1525527959/episode-0-4-0-riak-revisited-with-andy-gross-mark-philli">The Changelog Episode 0.4.0 - Riak Revisited</a></li>
+	  </ul>	
 	</div>	
-	<div id="about">		
+	<div id="about">	
+<h2 class="who">Who</h2>			
 <p>Mark Phillips is the Community Manager at <a href="http://www.basho.com">Basho Techologies</a>, the company that leads development on software like <a href="http://wiki.basho.com">Riak <a href="https://github.com/basho/webmachine">Webmachine</a>, and <a href="https://github.com/basho/rebar/wiki">Rebar</a>. 
 </p>	
 <p>Mark is passionate about community building, open source software, single malt scotch, and Hall & Oates.</p>	
@@ -61,6 +59,13 @@ title: TheMarkPhillips
 <li><a href="http://www.linkedin.com/pub/mark-phillips/7/b75/255">LinkedIn</a></li>
 <li>email: <strong>mark@basho.com</strong></li>
 </ul>
+
+<h2 class="who">Other Stuff</h2>
+<ul class ="other_stuff">
+	<li><a href="http://twit.tv/floss129">FLOSS Weekly 129: Riak</a></li>
+	<li><a href="http://thechangelog.com/post/1525527959/episode-0-4-0-riak-revisited-with-andy-gross-mark-philli">The Changelog Episode 0.4.0 - Riak Revisited</a></li>
+</ul>	
+
 		
 	<!-- Links I'll need later
 	<ul> 	
