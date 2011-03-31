@@ -1,6 +1,6 @@
 ---
 layout: newpost
-title: A Few Suggestions to Bring GitHub More Users And Money
+title: A Few Suggestions To Bring GitHub More Users And Money
 summary: <p> I'm a Community Manager. My long days and sleepless nights aren't spent writing code. Instead, I'm tasked explicitly with monitoring, tracking and growing the open source activity that exists around projects like Riak ... 
 ---
 
@@ -12,7 +12,7 @@ But I'm not a Developer. I'm a Community Manager. My long days and sleepless nig
 
 There is, however, room for improvement. GitHub currently does a less-than-stellar job of displaying who is contributing to, watching, forking and commenting on your code. For example, I can get a straightforward snapshot of all the "contributors to Luwak":https://github.com/basho/luwak/contributors or all the "commits rolling into Ripple":https://github.com/seancribbs/ripple/commits/master. But, at the end of the week/month/year, when I attempt to calculate the various community growth metrics that matter to me as a Community Manager, I have to jump through some hoops. These barriers aren't insurmountable by any means, but it could be simplified. And I would happily pay for this simplification. With that in mind, here are a few suggestions from someone who spends too much time on GitHub.
 
-*Suggestion 1: Snapshot of Total Activity Across A Repo*
+*Suggestion 1: Snapshot of Total Activity Across a Repo*
 
 I do my best to track everything associated with our code. At the end of the month, for example, I'll go to the "Riak Repo":https://github.com/basho/riak/ (and most other Basho repos, actually) and tally up things like total number of pull requests opened/closed, total number of issues opened/closed, and total number of comments open/closed, etc. One view that presented me with all this info would be insanely useful. Here's a rundown of what might be part of said view:
 
