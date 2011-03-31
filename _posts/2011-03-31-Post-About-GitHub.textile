@@ -1,0 +1,55 @@
+---
+layout: newpost
+title: A Few Suggestions to Bring GitHub More Users And Money
+summary: <p> I'm a Community Manager. My long days and sleepless nights aren't spent writing code. Instead, I'm tasked explicitly with monitoring, tracking and growing the open source activity that exists around projects like Riak ... 
+---
+
+p(date). March 30, 2011
+
+"Basho":http://www.basho.com/ uses GitHub for the hosting and development of all our code. We do this because we enjoy using git as a version control system, but also (and probably more so) for GitHub's "social coding" advantages. (Basho "made the switch to GitHub officially":http://blog.basho.com/2010/11/11/a-few-more-details-on-why-we-switched-to-github/ back in October of last year.) In my opinion, there is simply no better way to enable more people to collaborate faster on a project than by using GitHub. If you're at all interested in developing your software with people other than those who are paid to write it, this is where your code needs to be. (Open Source aside, you should be using GitHub for all your software development.)
+
+But I'm not a Developer. I'm a Community Manager. My long days and sleepless nights aren't spent writing code. Instead, I'm tasked explicitly with monitoring, tracking and growing the open source activity that exists around projects like "Riak":https://github.com/basho/riak, "Webmachine":https://github.com/basho/webmachine, "Riak Search":https://github.com/basho/riak_search, and "Rebar":https://github.com/basho/rebar". That said, GitHub is one of the most effective, reliable, and innovative resources I have for watching who is doing what to contribute to our code and how they are doing it.
+
+There is, however, room for improvement. GitHub currently does a less-than-stellar job of displaying who is contributing to, watching, forking and commenting on your code. For example, I can get a straightforward snapshot of all the "contributors to Luwak":https://github.com/basho/luwak/contributors or all the "commits rolling into Ripple":https://github.com/seancribbs/ripple/commits/master. But, at the end of the week/month/year, when I attempt to calculate the various community growth metrics that matter to me as a Community Manager, I have to jump through some hoops. These barriers aren't insurmountable by any means, but it could be simplified. And I would happily pay for this simplification. With that in mind, here are a few suggestions from someone who spends too much time on GitHub.
+
+*Suggestion 1: Snapshot of Total Activity Across A Repo*
+
+I do my best to track everything associated with our code. At the end of the month, for example, I'll go to the "Riak Repo":https://github.com/basho/riak/ (and most other Basho repos, actually) and tally up things like total number of pull requests opened/closed, total number of issues opened/closed, and total number of comments open/closed, etc. One view that presented me with all this info would be insanely useful. Here's a rundown of what might be part of said view:
+
+* Total Number of Watchers/Forks
+* Increase in Watchers/Forks
+** Percentage growth
+** Raw Number Increase 
+* Pull Request Summary
+* Commit Summary
+* Comments Summary
+* Issue Summary
+* Number of Related Repos that Appeared This Week/Month 
+
+More on this last bullet point: I think it would be amazing to show a list of projects that appeared over the last week/month/year that were somehow related to a given repo. Perhaps developers could tag new (or existing) repos with a some simple metadata that could be used to connect it to relevant repos. "Riak-js":https://github.com/frank06/riak-js, for example, would get "riak" and "node.js" tags. Queue graph creation, repo impact analyses, blog posts, etc. 
+
+Also, the ability to break these stats down by official members of an Organization compared to outside contributors would be essential. 
+
+*Suggestion 2: Snapshot of Total Activity Across Every Repo Owned by an Organization or User*
+
+Above I mentioned that I maintain stats on basically "all of Basho's of repositories":https://github.com/basho. The ability to sum stats and view trends across all our of repos would trigger a deluge of happy tears. (Bonus points for giving me the ability to compare activity across a subset our repos over a given period of time.)
+
+*Suggestion 3: Developer Activity Snapshots at the Repo Level* 
+
+Show me a rolled up summary for all the activity of one developer at the repository level. At the moment you can get a complete view of "one user's total activity":https://github.com/obie, but this lacks specificity. At the repo level I can bounce around to the separate commit, issue, and pull request screens and, via some manual filtering and incantations, figure out how a certain hacker has impacted a chunk of code. But it's not easy and it's not efficient. Here's what the structure of such a page might looks like:
+
+* Last visited repo on:
+* Watcher/Forker Since: 
+* Pull Requests
+* Commits
+* Recent Comments
+* Issues Opened/Particpated In: 
+* Something Cool I'm Forgetting
+
+(The one immediate flaw I can see here is that there would be a lot users whose repo-level activity pages would be bare. Perhaps this page would only be created one a user has satisfied several criteria?)
+
+*So Why Would GitHub Want To Do This?*
+
+GitHub does expose a few metrics that can be useful (and I've heard rumors that they are working to make them more useful). Both Impact and Traffic Graphs (see respective examples "here":https://github.com/joyent/node/graphs/impact and "here":https://github.com/joyent/node/graphs/traffic) can provide some level of depth to show who is pushing the code forward and what level of exposure your code is getting. And, it is possible to get an handle on how many commits are coming from whom. But if the repo-level metrics were to be simplified and enhanced, GitHub would see not only a lot more people using its platform, but a lot more people with different titles paying for it. 
+
+"Phark":https://twitter.com/pharkmillups
