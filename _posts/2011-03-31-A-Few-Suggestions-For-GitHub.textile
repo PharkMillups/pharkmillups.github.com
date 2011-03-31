@@ -52,4 +52,6 @@ Show me a rolled up summary for all the activity of one developer at the reposit
 
 GitHub does expose a few metrics that can be useful (and I've heard rumors that they are working to make them more useful). Both Impact and Traffic Graphs (see respective examples "here":https://github.com/joyent/node/graphs/impact and "here":https://github.com/joyent/node/graphs/traffic) can provide some level of depth to show who is pushing the code forward and what level of exposure your code is getting. And, it is possible to get an handle on how many commits are coming from whom. But if the repo-level metrics were to be simplified and enhanced, GitHub would see not only a lot more people using its platform, but a lot more people with different titles paying for it. 
 
+_Update_: "Link to Hacker News Comment Thread":http://news.ycombinator.com/item?id=2393327
+
 "Phark":https://twitter.com/pharkmillups
