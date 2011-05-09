@@ -184,7 +184,7 @@ ul.what_else li a:hover {text-decoration:underline;}
 
 ul.what_else h1 {text-align:left;size:15px;}	
 
-
+div.what_else img {padding:0; margin-left:-14px;}
 	
 	
 #subset {
@@ -260,4 +260,5 @@ border:2px solid #dddddd;
 -moz-box-shadow:2px 2px 4px rgba(0, 0, 0, 0.1);
 margin-top:50px;
 }
+
 
