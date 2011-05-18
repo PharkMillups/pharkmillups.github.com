@@ -1,0 +1,41 @@
+---
+title: Two Anecdotes About Community From JSConf and NodeConf
+layout: newpost
+summary: <p>Basho recently sponsored JSConf and NodeConf, a combined four days of amazing talks, parties and events that took place the first week of May in Portland, Oregon. Chris, Laura, and Virginia Williams, Mikeal Rogers, and all the other organizers did an unbelievable job with the conferences, and I'm proud to say that Basho were a part of making it happen ...
+---
+
+*May 18, 2011*
+
+Basho recently sponsored "JSConf":http://2011.jsconf.us/ and "NodeConf":http://nodeconf.com/, a combined four days of amazing talks, parties and events that took place the first week of May in Portland, Oregon. Chris, Laura, and Virginia Williams, Mikeal Rogers, and all the other organizers did an unbelievable job with the conferences, and I'm proud to say that Basho was a part of making it happen. 
+
+Interacting with various members of the JavaScript and Node communities was an incredible opportunity. I love that Riak is a great option for JavaScipt and Node developers who need a database; gaining more users is generally a good thing, and there is a level of excitement, enthusiasm, and interaction among these developers that is palpable, something I hope we can achieve in the greater Riak community. 
+
+With that in mind, there were two anecdotes (of sorts) that I thought warranted recapping, both with their roots in JavaScript, only one of which is directly related to Riak. For those who don't have time to read a bunch of sappy community rhetoric, here's the TL;DR: _I love virtually every aspect of community building and open source software, and the JavaScript and Node communities have a lot of qualities from which the Riak community can learn and borrow._
+
+*Anecdote 1: You Want Your Users To Hug You*
+
+The Day Two Party at JSConf was, of course, an over-the-top affair. We took over both floors of the Bossanova Ballroom for "an extravagant shindig sponsored by the great team at Yammer":http://2011.jsconf.us/#!/articles/14b8994ba86e576ba174a53513461474. At one point during the night, I was having a fairly lively conversation with "Matt Ranney":http://twitter.com/#!/mranney. Matt is quite well known in the Node.js community as he's a contributor to Node and is the author of the widely-used "node_redis library":https://github.com/mranney/node_redis (Aside from being an extremely talented developer, Matt is an all around great guy, and had recently rolled out a version of "Voxer":http://voxer.com/ using Riak as the primary backend store. As such, we had been chatting quite a bit during the conference as I made it a point to get his feedback on Riak and what we could be doing better.) 
+
+Before too long, "Stephan Seidt":http://twitter.com/#!/evilhackerdude, whom I had met a day prior (and who also published a "nifty piece of Riak-related code while at JSConf":https://github.com/evilhackerdude/teriaki) joined our conversation. He had not yet met Matt, so we did the customary introductions. Now I knew Stephan was a happy user of both Redis and Node.js, so I figured it was inevitable that he had used Matt's node_redis code. Turns out I was right. When Matt let it slip that he was, in fact, the node_redis author, Stephen blurted out, "Wait. You're _Matt Ranney!?_", then put down his beer, and proceeded to hug Matt. This was a very powerful moment for me. When I envision how I want Riak community members to react when they meet Riak developers, I'm pretty sure this is how I would like it to go down. If we can build and distribute software that prompts our users to drop their drink and express this type of gratitude, in my mind, we've done our job and have cultivated something great. 
+
+*Anecdote 2: Meeting People In Real Life Never Gets Old And Is Incredibly Valuable*
+
+Another aspect of community building that JSConf and NodeConf (and other past events, too) really reinforced for me was that regardless of how easy today's applications make it to meet, interact, and form relationships with others, nothing will ever replace an in-person handshake and face-to-face conversations. I met a lot of people in Portland that I had only previously spoken with online, and each occurrence was a thrill for me. The two instances that stood out the most for me were "Mathias Meyer":http://twitter.com/#!/roidrage and "Francisco Treacy":http://twitter.com/#!/frank06. 
+
+Mathias, who hails from Berlin, "made the decision to join the Basho Team":http://blog.basho.com/2011/03/02/Mathias-Meyer-has-joined-the-basho-team/ back in March, and, long before I had the honor of calling him a colleague, he and I would chat frequently in various channels as we were both pretty active in the NoSQL crowd. We met, and he blew me away. I'm still in awe that I get to work with people like him. (Ironically, he signed on to be the conference photographer long before he joined Basho, and it was his role specifically that Basho ended up sponsoring.)
+
+Having the chance to meet Francisco was great for two reasons: he is the primary author of Riak's Node.js client, "riak-js":http://riakjs.org, a chunk of code that has brought scores of users and community members to Riak and which ultimately lead Basho to sponsor NodeConf; the second reason is that Francisco and his start up "Widescript":https://widescript.com/ are also long-time Riak users and were one of the first production deployments of Riak to make themselves known. These guys were living on the bleeding edge in the early days. (Francisco was active on the mailing list as early as October 2009, a mere three months after Riak was open-sourced.) 
+
+Quite frankly, I just wanted to say "thanks" to Francisco and express my gratitude for what he had done and continues to do for the community. For various reasons, the majority of code contributions to Riak come via client and other external libraries. Both in terms of lines of code and the less precise metric "impact", riak-js is, arguably, one of the top five most significant contributions to Riak. Needless to say, you can see why I was excited to finally meet him. All I hope is that my giddiness wasn't too obvious. We had the chance to catch up and, seeing his dedication to Riak and riak-js first hand at NodeConf, I'm even more grateful for what he is doing.
+
+*Join Us*
+
+In case I didn't make it blatantly obvious, JSConf and NodeConf were a huge success for Basho and Riak, but also for me on a personal level for what I gleaned from their respective communities. The Riak community is blooming into something massive as we speak, and if you want to have an impact on the future of data storage technologies and distributed systems, now is the time to join us. "Download Riak":http://downloads.basho.com/riak/CURRENT/ or check out the "community page on the wiki":http://wiki.basho.com/The-Riak-Community.html to get started. Hugs are encouraged. 
+
+"Mark":http://twitter.com/#!/pharkmillups
+
+
+
+
+
+
