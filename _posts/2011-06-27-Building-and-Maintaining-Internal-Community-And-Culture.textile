@@ -38,6 +38,8 @@ Basho is firing on all cylinders right now (fixing more bugs, writing more featu
 
 You can't force community and culture. It starts with how you hire and is tested every day (whether you're working in the same physical location or not). Build (or seek out) a team that is committed to making something special across the board. Collaboration tools and processes will follow according, and they should compliment and enhance the way you work, not dictate it. 
 
+_*Update*: "Link to Hacker News Comment Thread":http://news.ycombinator.com/item?id=2702616_
+
 "Mark":http://twitter.com/#!/pharkmillups 
 
 Community Manager
