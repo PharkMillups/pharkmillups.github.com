@@ -36,7 +36,7 @@ At some point you have to actually meet and physically interact with your collea
 
 Basho is firing on all cylinders right now (fixing more bugs, writing more features, closing more deals, resolving more tickets, etc.), and I believe that our dedication to building a distributed culture and community internally has had a lot to do with it.  Though Basho's "system" is still a work in progress, in my opinion we've managed to build a strong internal community and culture that lends itself to heightened levels of productivity and overall happiness. We are still relatively small (right around 30, as I stated above) and making this scale will surely be a challenge. And I'm sure that the tools we use will change, too, to accommodate our needs (speaking of which, where is the Skype replacement already?).
 
-You can't force community and culture. It starts with how you hire and is tested every day (whether you're working in the same physical location or not). Build (or seek out) a team that is committed to making something special across the board. Collaboration tools and processes will follow according, and they should compliment and enhance the way you work, not dictate it. 
+You can't force community and culture. It starts with how you hire and is tested every day (whether you're working in the same physical location or not). Build (or seek out) a team that is committed to making something special across the board. Collaboration tools and processes will follow accordingly, and they should compliment and enhance the way you work, not dictate it. 
 
 _*Update*: "Link to Hacker News Comment Thread":http://news.ycombinator.com/item?id=2702616_
 

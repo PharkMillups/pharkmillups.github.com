@@ -161,11 +161,12 @@ h2 {
 
 div.what_else {
 
-	float:left;
-	margin-top: 20px;
+	
+	margin-top: 33px;
 	text-align:left;
 	margin-left:40px;
 	font-size:12px;
+	position:fixed;
 }
 
 .what_else h2 {
@@ -261,4 +262,6 @@ border:2px solid #dddddd;
 margin-top:50px;
 }
 
-
+#right {
+	float:left;
+}
