@@ -73,7 +73,7 @@ The Ripple Hackathon was a huge success in just about every way possible, and th
 * We decreased our development costs by more than 17%/hour during the Hackathon
 * We increased Basho&#39;s community goodwill, reputation, and attention in the open source space
 
-This type of event is something I would like to replicate in the future in other language groups across Riak&#39;s community. The merit of such an exercise is usually pretty clear to developers partaking in it and other community members, but C-Level executives deal in ROIs, and Basho&#39;s (to their credit) are no different. 
+This type of event is something I would like to replicate in the future in other language groups across Riak&#39;s community. The merit of such an exercise is usually pretty clear to developers partaking in it and community members observing it, but C-Level executives deal in ROIs, and Basho&#39;s (to their credit) are no different. 
 
 Calculating the value of code contributions in terms of money saved and developer productivity gained is hard (and if someone has a clean, proven model on how to do so, let me know in the comments and I&#39;ll give you my cell number because we need to talk). In a controlled situation, like with the Ripple Hackathon, it&#39;s a touch easier to derive some semi-reliable numbers on things like ROI and code impact. And with results like this in hand I&#39;m looking forward to making recommendations for similar hackathons and sprints in the near future. I&#39;m thinking Python...
 
