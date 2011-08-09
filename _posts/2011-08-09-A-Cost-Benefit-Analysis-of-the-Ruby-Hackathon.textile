@@ -1,12 +1,12 @@
 --- 
 layout: newpost
 title: A Cost/Benefit Analysis of the Ripple Hackathon 
-summary: <p>From July 11 - 13, Basho Developer Advocate Sean Cribbs and the majority of the Ripple Committers descended upon BashoWest for the first official Ripple Hackathon. This was three full days of intense work, discussion, and collaboration around "Riak&#39;s":http:wiki.basho.com Ruby Client. After the event was over we took some time to put together a "cost/benefit analysis" to demonstrate that what we did was worthwhile and should be repeated in the future ...
+summary: <p>From July 11 - 13, Basho Developer Advocate Sean Cribbs and the majority of the Ripple Committers descended upon BashoWest for the first official Ripple Hackathon. This was three full days of intense work, discussion, and collaboration around Riak&#39;s Ruby Client. After the event was over we took some time to put together a "cost/benefit analysis" to demonstrate that what we did was worthwhile and should be repeated in the future ...
 ---
 
 _*August 09, 2011*_
 
-From July 11 - 13, Basho Developer Advocate "Sean Cribbs":https://twitter.com/#!/seancribbs and the majority of the "Ripple":https://github.com/seancribbs/ripple Committers descended upon "BashoWest":http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you/ for the first official Ripple Hackathon (RH). This was three full days of intense work, discussion, and collaboration around Basho&#39;s Ruby Client. After the event was over we took some time to put together a "cost/benefit analysis" to demonstrate that what we did was worthwhile and should be repeated in the future. This was my first experience with this type of community event and I learned tons. Thus, I thought it might be worth sharing with others who are focused on community building and open source software. 
+From July 11 - 13, Basho Developer Advocate "Sean Cribbs":https://twitter.com/#!/seancribbs and the majority of the "Ripple":https://github.com/seancribbs/ripple Committers descended upon "BashoWest":http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you/ for the first official Ripple Hackathon (RH). This was three full days of intense work, discussion, and collaboration around "Riak&#39;s":http:wiki.basho.com Ruby Client. After the event was over we took some time to put together a "cost/benefit analysis" to demonstrate that what we did was worthwhile and should be repeated in the future. This was my first experience with this type of community event and I learned tons. Thus, I thought it might be worth sharing with others who are focused on community building and open source software. 
 
 *Background*
 
