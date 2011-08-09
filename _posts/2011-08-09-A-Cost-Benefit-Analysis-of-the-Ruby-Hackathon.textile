@@ -1,0 +1,80 @@
+--- 
+layout: newpost
+title: A Cost/Benefit Analysis of the Ripple Hackathon 
+summary: <p>From July 11 - 13, Basho Developer Advocate Sean Cribbs and the majority of the Ripple Committers descended upon BashoWest for the first official Ripple Hackathon. This was three full days of intense work, discussion, and collaboration around Basho&#39;s Ruby Client. After the event was over we took some time to put together a "cost/benefit analysis" to demonstrate that what we did was worthwhile and should be repeated in the future ...
+---
+
+_*August 09, 2011*_
+
+From July 11 - 13, Basho Developer Advocate "Sean Cribbs":https://twitter.com/#!/seancribbs and the majority of the "Ripple":https://github.com/seancribbs/ripple Committers descended upon "BashoWest":http://blog.basho.com/2011/06/07/BashoWest-is-all-new-and-we-have-desks-for-you/ for the first official Ripple Hackathon (RH). This was three full days of intense work, discussion, and collaboration around Basho&#39;s Ruby Client. After the event was over we took some time to put together a "cost/benefit analysis" to demonstrate that what we did was worthwhile and should be repeated in the future. This was my first experience with this type of community event and I learned tons. Thus, I thought it might be worth sharing with others who are focused on community building and open source software. 
+
+*Background*
+
+Sean is the primary maintainer and hacker on Ripple, Basho&#39;s supported Ruby client for "Riak":http:wiki.basho.com). Due to various forces, however, he has had less time of late to work on the code, and the schedule for getting it to 1.0 continues to get drawn out. 
+
+Getting Ripple to 1.0, and the features and bug fixes that come along with that version number, is something that needs to happen. The maturity and functionality of a 1.0 release means more developers and companies can use Ripple for their production deployments. To expedite the process Sean proposed we get all the Committers out to San Francisco to try and accomplish this with a sprint. And, to sweeten the pot for the invitees, we offered to pay both their airfare and hotel bills. It was a non-trivial expense from the Community budget but we felt strongly about sponsoring this development. 
+ 
+Before this Cost/Benefit analysis was completed, Sean and I concluded that the Hackathon was a huge success: the new Ripple code, bug fixes, the community goodwil, and non-code content produced are already having a positive impact for Ripple, Riak, and the Basho Community. And, after completing this analysis, I&#39;m happy to report that event was well worth it. Here&#39;s an overview of the people involved, the code written, and why the Ripple Hackathon was an excellent investment of Basho money and time.
+
+_Note: I originally wrote this to be consumed internally by various people at Basho. As such, I included exact dollar amounts to better demonstrate how valuable this exercise was. In preparation for public consumption, however, I&#39;ve removed these figures. That said, I&#39;m fairly confident I can demonstrate the benefit of this in relative terms._ 
+
+*The Committers*
+
+Aside from Sean, the Committes who were able to attend the Hackathon were:
+
+* "Duff O&#39;Melia":https://twitter.com/duffomelia (Developer, "Spreedly":http://spreedly.com/)
+* "Nathaniel Talbott":https://twitter.com/#!/ntalbott (Cofounder, "Spreedly":http://spreedly.com/)
+* "Myron Marston":https://twitter.com/#!/myronmarston (Developer, "SEOmoz":http://www.seomoz.org/)
+* "Kyle Kingsbury":https://twitter.com/#!/aphyr (Developer, "VodPod":http://vodpod.com/)
+
+*The Costs*
+
+Basho covered the majority of the expenses for each of the invitees: hotel, airfare and daily lunches were paid for out of our 2011 Community Budget.  
+
+*Time Spent Hacking*
+
+Over the three day period, we estimated that four of the five hackers present put in, on average, a total of 30 hours each. One participant had to leave to handle some work issues, and was only able to contribute about 25 total hours. 
+
+* Total hours spent working on Ripple = 145 hours
+
+*Impact On The Code Base*
+
+In short, the work done, both in quality and amount, was massive. Day One was spent primarily strategizing and discussing what was to be accomplished over the next few days. Days Two and Three were where the majority of the code was written. For a full list of what happened over the three day period, take a few minutes to read Sean&#39;s detailed blog posts summarizing their goals and progress:
+
+* "Ripple Hackathon Day One":http://seancribbs.com/tech/2011/07/12/ripple-hackathon---day-1
+* "Ripple Hackathon Day Two":http://seancribbs.com/tech/2011/07/13/ripple-hackathon---day-2
+* "Ripple Hackathon Day Three":http://seancribbs.com/tech/2011/07/14/ripple-hackathon---day-3 
+
+Some specific stats on the sheer volume of the work:
+
+* There were 72 commits made over the three day period
+* 101 files were changed
+* 1,460 LOC were added
+* 240 LOC were deleted 
+
+For the details on all the commits, see this "Compare view of the GitHub Commit Log":https://github.com/seancribbs/ripple/compare/66bf4f7b2d9e1bbeb55e...59cf2624524a87ce45c4.
+
+The "GitHub Impact Graph for Ripple":https://github.com/seancribbs/ripple/graphs/impact gives another perspective on just how much work was done (the week of July 10th, 2011 is what you&#39;ll want to examine). What this shows is that there were only five other weeks during the last 18 months that had equal or more impact on the code base. What&#39;s more, three of those five weeks were when Sean was more-or-less working full time on Ripple; he is far from full time on Ripple now.
+
+*Was Is Worth The Time?*
+
+Sean spends about 20 hours a month on Ripple at the moment. This means that it would have taken him more than seven months alone (assuming a 40 hour work week) to accomplish the equivalent of what he and the committers completed at the Hackathon. Realistically, it might have taken closer to three or four months as there are other committers and community members working with him on the library. So let&#39;s assume three months. _Sean and the Committers were able to accomplish in three days what would have probably taken more than three months._ 
+
+*Was It Worth The Money?*
+
+Based on Sean&#39;s effective hourly rate for the what he gets paid to work at Basho (taking into account salary, benefits, etc.), we know (with a fair amount of accuracy), what it would cost Basho to put 145 hours towards Ripple. After calculating the cost to cover all the Committer expenses (listed above), _we brought down the cost of development by more than 17% on an hourly basis_.
+
+*The Big Picture* 
+
+The Ripple Hackathon was a huge success in just about every way possible, and the benefits far outweighed the costs: 
+
+* We wrote better code faster for Ripple (doing three months work in three days), thus making the library more mature in less time and making it more accessible to more users (both open source and commercial)
+* We deepened relationships with our core committers, making them more likely to deploy Riak in other parts of their organizations and recommend it farther afield
+* We decreased our development costs by more than 17%/hour during the Hackathon
+* We increased Basho&#39;s community goodwill, reputation, and attention in the open source space
+
+This type of event is something I would like to replicate in the future in other language groups across Riak&#39;s community. The merit of such an exercise is usually pretty clear to developers partaking in it and other community members, but C-Level executives deal in ROIs, and Basho&#39;s (to their credit) are no different. 
+
+Calculating the value of code contributions in terms of money saved and developer productivity gained is hard (and if someone has a clean, proven model on how to do so, let me know in the comments and I&#39;ll give you my cell number because we need to talk). In a controlled situation, like with the Ripple Hackathon, it&#39;s a touch easier to derive some semi-reliable numbers on things like ROI and code impact. And with results like this in hand I&#39;m looking forward to making recommendations for similar hackathons and sprints in the near future. I&#39;m thinking Python...
+
+"Mark":https://twitter.com/#!/pharkmillups 
