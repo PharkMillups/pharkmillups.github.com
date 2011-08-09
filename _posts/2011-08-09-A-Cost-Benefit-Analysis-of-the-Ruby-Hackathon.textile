@@ -10,7 +10,7 @@ From July 11 - 13, Basho Developer Advocate "Sean Cribbs":https://twitter.com/#!
 
 *Background*
 
-Sean is the primary maintainer and hacker on Ripple, Basho&#39;s supported Ruby client for "Riak":http:wiki.basho.com). Due to various forces, however, he has had less time of late to work on the code, and the schedule for getting it to 1.0 continues to get drawn out. 
+Sean is the primary maintainer and hacker on Ripple. Due to various forces, however, he has had less time of late to work on the code, and the schedule for getting it to 1.0 continues to get drawn out. 
 
 Getting Ripple to 1.0, and the features and bug fixes that come along with that version number, is something that needs to happen. The maturity and functionality of a 1.0 release means more developers and companies can use Ripple for their production deployments. To expedite the process Sean proposed we get all the Committers out to San Francisco to try and accomplish this with a sprint. And, to sweeten the pot for the invitees, we offered to pay both their airfare and hotel bills. It was a non-trivial expense from the Community budget but we felt strongly about sponsoring this development. 
  
