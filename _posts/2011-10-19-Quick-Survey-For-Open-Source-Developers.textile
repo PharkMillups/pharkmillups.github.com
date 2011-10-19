@@ -20,7 +20,7 @@ Before you get started, a few things to keep in mind:
 
 * For question 2, "responsive" is a subjective term and people have their own definitions of it. Let's call a mailing list "responsive" when _you've had a meaningful interaction with a person or persons on the mailing list that enabled you to resolve or make non-trivial progress on your question or issue._
 
-I'll make the data public after a few days so you can scrutinize it. Thanks again for you help. 
+I'll make the data public after a few days so you can scrutinize it. Thanks again for your help. 
 
 "Mark":http://twitter.com/#!/pharkmillups 
 
