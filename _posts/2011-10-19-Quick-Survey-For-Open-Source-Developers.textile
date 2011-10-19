@@ -4,7 +4,7 @@ layout: newpost
 summary: <p>One of the things that keeps me up at night is issues that come into the mailing list and go without getting some type of meaningful response. It pains me when questions or issue goes unanswered. Developers have too many choices for solid, functional open offerings these days in just about every part of their stack for us not to value their participation and usage, and for a community to not be responsive means they run the risk of losing newcomers and existing users ...
 ---
 
-*October 18, 2011*
+*October 19, 2011*
 
 I spend a lot of time with "Riak's Mailing List":http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com. It's part of my job, but I also love it. Mailing lists are one of the primary channels of communication, idea sharing, problem solving, and community building for open source projects, so it's essential that stewards of a project take time to nurture and grow them.  
 
