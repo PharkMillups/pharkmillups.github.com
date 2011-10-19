@@ -1,0 +1,27 @@
+---
+title: Survey For Open Source Developers About Mailing List Expectations 
+layout: newpost
+summary: <p>One of the things that keeps me up at night is issues that come into the mailing list and go without getting some type of meaningful response. It pains me when questions or issue goes unanswered. Developers have too many choices for solid, functional open offerings these days in just about every part of their stack for us not to value their participation and usage, and for a community to not be responsive means they run the risk of losing newcomers and existing users ...
+---
+
+*October 18, 2011*
+
+I spend a lot of time with "Riak's Mailing List":http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com. It's part of my job, but I also love it. Mailing lists are one of the primary channels of communication, idea sharing, problem solving, and community building for open source projects, so it's essential that stewards of a project take time to nurture and grow them.  
+
+Among the things that keep me up at night are issues that come into the mailing list and go without getting some type of meaningful response. It pains me when questions or issues go unanswered or unaddressed. Developers have too many choices for solid, functional open source offerings these days in just about every part of their stack for us not to value their participation and usage, and for a community to not be responsive means they run the risk of losing newcomers and existing users. And the glut of other real-time technologies out there means that people just expect expedient responses from things like mailing lists (even though they are meant to be "lazy" communication channels). 
+
+The Basho team does our best to answer as much as we can (time-permitting), but, inevitably there will be some orphaned issues. And we look to the "Riak":http://wiki.basho.com community to answer a lot of the questions and issues that come in, too; if we were the only developers who were capable of or willing to answer mailing list questions, what kind of community would we be building?
+
+With that in mind, I thought a short survey about what people expect from mailing lists would be an effective way to gather some data. (I've had success in the past "with another short survey":http://www.themarkphillips.com/2011/02/03/Why-Do-People-Watch-Code-Survey-Results-Edition.html.) I'm hoping to get a better feel for, among other things, the level of urgency with which we should approach issues and questions on the list.  I'm also quite interested in whether people actually use mailing lists or not. This data will help Basho do things better for our community (and perhaps other communities will benefit from the data, too), so we appreciate your time and responses. I've also included a section at the bottom of the survey for anyone who wants to do some venting. 
+
+Before you get started, a few things to keep in mind:
+
+* For question 1, I understand that there are a wide variety of issues and questions that people send to mailing lists. "Help, my cluster crashed and I've lost my data!" is more time-sensitive and pressing than "I can't get the Python client to connect on my test cluster". For the purposes of this survey, let's consider "new issue or question" _something pressing that impacts your production environment but doesn't take your app out of production_. 
+
+* For question 2, "responsive" is a subjective term and people have their own definitions of it. Let's call a mailing list "responsive" when _you've had a meaningful interaction with a person or persons on the mailing list that enabled you to resolve or make non-trivial progress on your question or issue._
+
+I'll make the data public after a few days so you can scrutinize it. Thanks again for you help. 
+
+"Mark":http://twitter.com/#!/pharkmillups 
+
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dE5fOXlHeE4yakVXd1QtU0ViMlY5ekE6MQ" width="600" height="642" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
