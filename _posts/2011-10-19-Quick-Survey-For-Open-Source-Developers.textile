@@ -22,6 +22,8 @@ Before you get started, a few things to keep in mind:
 
 I'll make the data public after a few days so you can scrutinize it. Thanks again for your help. 
 
+_*Update*: "Link to Hacker News Comments":http://news.ycombinator.com/item?id=3131109_ (upvotes are encouraged)
+
 "Mark":http://twitter.com/#!/pharkmillups 
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dE5fOXlHeE4yakVXd1QtU0ViMlY5ekE6MQ" width="600" height="642" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
