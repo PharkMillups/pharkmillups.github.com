@@ -16,7 +16,7 @@ With that in mind, I thought a short survey about what people expect from mailin
 
 Before you get started, a few things to keep in mind:
 
-* For question 1, I understand that there are a wide variety of issues and questions that people send to mailing lists. "Help, my cluster crashed and I've lost my data!" is more time-sensitive and pressing than "I can't get the Python client to connect on my test cluster". For the purposes of this survey, let's consider "new issue or question" _something pressing that impacts your production environment but doesn't take your app out of production_. 
+* For question 1, I understand that there are a wide variety of issues and questions that people send to mailing lists. "Help, my cluster crashed and I've lost my data!" is more time-sensitive and pressing than "I can't get the Python client to connect on my test cluster." For the purposes of this survey, let's consider "new issue or question" _something pressing that impacts your production environment but doesn't take your app out of production_. 
 
 * For question 2, "responsive" is a subjective term and people have their own definitions of it. Let's call a mailing list "responsive" when _you've had a meaningful interaction with a person or persons on the mailing list that enabled you to resolve or make non-trivial progress on your question or issue._
 
