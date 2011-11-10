@@ -1,0 +1,44 @@
+---
+title: Need a Videographer, DJ, or Photographer? Call These People
+layout: newpost
+summary: <p> The Riak 1.0 Release Party would not have been complete without the handful of vendors we used to make it special. Specifically, I’m talking about the videographer, DJ, and photographer. So, I wanted to take a second to recommend them to anyone in the Bay Area who might be in the market for their services.</p>
+	
+---
+
+*November 10, 2011*
+
+By all accounts, "the Riak 1.0 Release Party":http://www.meetup.com/San-Francisco-Riak-Meetup/events/37997632/ that happened on Tuesday night was a huge success. We filled the space at "111 Minna":http://111minnagallery.com/event-space to capacity, built some great momentum behind Riak and Basho, and brought the community together in a friendly, lively, and exciting way. (On a related note, we did a similar  event last year, and I "wrote a post":http://www.themarkphillips.com/2010/08/20/What-I-Learned-from-Organizing-the-First-Riak-Meetup.html highlighting a few things I learned in the process.) 
+
+The night would not have been complete without the handful of vendors we used to make it special. Specifically, I'm talking about the videographer, DJ, and photographer. So, I wanted to take a second to recommend them to anyone in the Bay Area who might be in the market for their services.  
+
+h3. Videographer 
+
+If you need anything filmed (talk, presenation, etc.), get in touch with Matt Fisher. Matt responded to a Craigslist ad I put up about a year ago to film the "Riak Meetups":http://www.meetup.com/San-Francisco-Riak-Meetup/ and the various pieces of video he has delivered me and Basho over this time period have been nothing but stellar. I've been recommending him all over town, and I fully intend to fill his calendar with gigs at area companies. He's a talented videographer and is great to work with on all aspects of filming and production. 
+
+* Contact info: *beatmakermatt@gmail.com*
+* "Website":www.precipitaterecords.wordpress.com 
+
+h3. DJ 
+
+Every good party needs a DJ. Fuck your iPod. Spend a few dollars and bring in a professional. I asked a few friends of mine in the area if they had anyone who might be able to play a "corporate gig that didn't feel like a corporate gig." Eventually an email from Joseph Razo ended up in my inbox. He's local to the Bay and put on a great show for the more than 180 people who showed up for the event. He's got some range with what he plays, and kept the crowd on their toes without being too intrusive. I highly recommend him.
+
+* Contact info: *razo.joe@gmail.com*
+
+h3. Photographer
+
+Matt, the videographer, hooked me up with a colleague and friend of his named Michael Lennon. (I'm not sure if you can tell, but I'm big on using trusted friends and connections for vendor recommendations.) Long story short, he was a consummate professional, worked behind the scenes, and delivered some excellent photos on a startup budget. (You can look for these on "The Basho Blog":http://basho.com/blog/technical early next week.)
+
+* Contact info: *mike@lennonimages.com*
+* "Website":http://www.lennonimages.com
+
+That's it. Just some recognition for a few talented professionals. Call them. They will make your lives easier if you find yourself planning and executing an event. 
+
+"Mark":http://twitter.com/#!/pharkmillups 
+
+
+
+
+
+
+
+
