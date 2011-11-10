@@ -13,7 +13,7 @@ The night would not have been complete without the handful of vendors we used to
 
 h3. Videographer 
 
-If you need anything filmed (talk, presenation, etc.), get in touch with Matt Fisher. Matt responded to a Craigslist ad I put up about a year ago to film the "Riak Meetups":http://www.meetup.com/San-Francisco-Riak-Meetup/ and the various pieces of video he has delivered me and Basho over this time period have been nothing but stellar. I've been recommending him all over town, and I fully intend to fill his calendar with gigs at area companies. He's a talented videographer and is great to work with on all aspects of filming and production. 
+If you need anything filmed (talk, presenation, etc.), get in touch with Matt Fisher. Matt responded to a Craigslist ad I put up about a year ago to film the "Riak Meetups":http://www.meetup.com/San-Francisco-Riak-Meetup/ and the various pieces of video he has delivered to me and Basho over this time period have been nothing but stellar. I've been recommending him all over town, and I fully intend to fill his calendar with gigs at area companies. He's a talented videographer and is great to work with on all aspects of filming and production. 
 
 * Contact info: *beatmakermatt@gmail.com*
 * "Website":www.precipitaterecords.wordpress.com 
