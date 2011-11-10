@@ -1,7 +1,7 @@
 ---
 title: Need a Videographer, DJ, or Photographer? Call These People
 layout: newpost
-summary: <p> The Riak 1.0 Release Party would not have been complete without the handful of vendors we used to make it special. Specifically, I’m talking about the videographer, DJ, and photographer. So, I wanted to take a second to recommend them to anyone in the Bay Area who might be in the market for their services.</p>
+summary: <p> The Riak 1.0 Release Party 	would not have been complete without the handful of vendors we used to make it special. Specifically, I’m talking about the videographer, DJ, and photographer. So, I wanted to take a second to recommend them to anyone in the Bay Area who might be in the market for their services.</p>
 	
 ---
 
@@ -31,7 +31,7 @@ Matt, the videographer, hooked me up with a colleague and friend of his named Mi
 * Contact info: *mike@lennonimages.com*
 * "Website":http://www.lennonimages.com
 
-That's it. Just some recognition for a few talented professionals. Call them. They will make your lives easier if you find yourself planning and executing an event. 
+That's it. Just some recognition for a few talented professionals. Get in touch with them. They will make your lives easier if you find yourself planning and executing an event. 
 
 "Mark":http://twitter.com/#!/pharkmillups 
 
