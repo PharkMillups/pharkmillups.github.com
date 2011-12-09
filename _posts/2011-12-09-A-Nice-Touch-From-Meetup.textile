@@ -6,7 +6,7 @@ summary: <p> I spent yesterday and today setting up and announcing a new meetup 
 
 *December 09, 2011*
 
-I spent yesterday and today setting up and announcing a new meetup we are getting off the ground called "BashoChats":http://www.meetup.com/BashoChats/events/43849732. The purpose of BashoChats is to help build out the distributed systems and large-scale computing community in and around they Bay Area. "Basho":http://basho.com is deeply invested in the future of distributed systems in practice, and, along with companies like Boundary, (who, admittedly, "gave me the idea to start BashoChats":http://www.meetup.com/Boundary-Tech-Talks/), I have to say the future is looking bright for bringing what has been, to date, a largely academic pursuit into the lives of more developers. 
+I spent yesterday and today setting up and announcing a new meetup we are getting off the ground called "BashoChats":http://www.meetup.com/BashoChats/events/43849732. The purpose of BashoChats is to help build out the distributed systems and large-scale computing community in and around they Bay Area. "Basho":http://basho.com is deeply invested in the future of distributed systems in practice, and, along with companies like "Boundary":https://boundary.com/, (who, admittedly, "gave me the idea to start BashoChats":http://www.meetup.com/Boundary-Tech-Talks/), I have to say the future is looking bright for bringing what has been, to date, a largely academic pursuit into the lives of more developers. 
 
 When I was setting up the group's meetup page something stuck out to me that I had missed in my previous interactions with the "Group Creation Page":http://www.meetup.com/create. Check this out:
 
