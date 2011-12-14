@@ -1,0 +1,28 @@
+--- 
+title: Spend 15 Minutes On A Mailing List - A Challenge
+layout: newpost
+summary: <p> Open source is free. And you don’t owe anyone anything for using it. Ever. But, in the name of participation and community goodwill, I&#146;m issuing the following challenge ... </p>
+--- 
+
+*December 14, 2011*
+
+Open source is free. And you don't owe anyone anything for using it. Ever. But, in the name of participation and community goodwill, I'm issuing the following challenge:
+
+_Take 15 minutes between now and the end of the year and respond to at least one thread/question/issue on the mailing list of the project from which you derive the most value._ 
+
+(Perhaps you're already spending a lot of time on mailing lists or on IRC helping users, asking questions, building community. If this is you, consider yourself saluted by this Community Manager.)
+
+It's a small thing, and maybe no one will notice. But even the smallest amount of participation can go a long way. Who knows? Maybe your response will end up being the one that turns a skeptic into a believer, someone who previously thought the community left them for dead...
+
+That's all. Happy Holidays.
+
+Mark 
+
+
+
+
+
+
+
+ 
+
