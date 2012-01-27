@@ -1,0 +1,24 @@
+---
+title: Building Healthy Distributed Systems
+layout: newpost
+summary: <p> Distributed systems aren't limited to the world of computing. Companies and communities, for example, are also distributed networks of resources. This talk is a high-level look at computers, companies, and communities as distributed systems with a focus on why maintaining their health is crucial if they are to scale.</p>
+--- 
+
+
+h2. January 27, 2012
+
+I had the opportunity to give a talk at "ScaleConf":http://http://scaleconf.org in beautiful Cape Town, South Africa. It was put on by a stellar team lead by "Jonathan Hitchcock":https://twitter.com/#!/vhata and "Duncan Phillips":https://twitter.com/#!/nuknad. They swore up and down that it was there their first time running an event, but you would never know it. They had every detail nailed, and based on my (heavily-jet-lagged) four days in Cape Town, I'm excited to watch the South African tech community grow. They are going places. 
+
+Enjoy.
+
+"Mark":https://twitter.com/#!/pharkmillups
+
+
+*Building Healthy Distributed Systems*
+
+Distributed systems aren't limited to the world of computing. Companies and communities, for example, are also distributed networks of resources. This talk is a high-level look at computers, companies, and communities as distributed systems with a focus on why maintaining their health is crucial if they are to scale.
+
+<notextile>
+<script src="http://speakerdeck.com/embed/4f229a9421e6f8002201fa9f.js"></script>
+</notextile>
+
