@@ -16,9 +16,8 @@ Enjoy.
 
 *Building Healthy Distributed Systems*
 
-Distributed systems aren't limited to the world of computing. Companies and communities, for example, are also distributed networks of resources. This talk is a high-level look at computers, companies, and communities as distributed systems with a focus on why maintaining their health is crucial if they are to scale.
+Distributed systems aren't limited to the world of computing. Companies and communities, for example, are also distributed networks of resources. This talk is a high-level look at computers, companies, and communities as distributed systems with a focus on why maintaining their health is crucial if they are to scale. (PDF version of the slides are "here":fix_path_)
 
 <notextile>
 <script src="http://speakerdeck.com/embed/4f229a9421e6f8002201fa9f.js"></script>
 </notextile>
-
