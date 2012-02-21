@@ -1,0 +1,87 @@
+--- 
+layout: newpost
+title: Why Basho Does Community
+summary: <p>  </p>
+--- 
+
+A community is composed of users. Anyone with the title "Community Manager" or something similar (Technical Evangelist, for example) should focus their time, effort, and responsibilities on users. No surprises here. Basho deals primarily in open source software, with our flagship project being Riak. I spend most of my time with and round developers who are using Riak or who should be using it (which is all of them). 
+
+The purpose of a community is also worth clarifying. **** <- change *** 
+
+Though Basho produces free software, we are a corporation, and are therefore in the business of making money (alongside exceptional software we release). Funding the development of a Community, and hiring people to work explicitly on growing and nurturing it, means it has to provide a return for Basho. We invest in community because they do the following for us:
+
+* Development
+* Support 
+* Product Management 
+* Sales and Business Development
+* Marketing and PR
+* Evangelism 
+* Revenue
+
+A community doesn't automatically perform all of these functions for an organization. In the case of open source software development is the first area in which you start to see contributions, and even this takes some initial work. I therefore spend my time working to turn the community into a well-oiled machine that provides the biggest returns in all of these areas. 
+
+How Basho views the role of a well-functioning community should not be too unique. Aside from the assistance with writing code, restricted to companies that either sell open source software (Basho) or who open source AND MAINTAIN the code that is part of their application ("LinkedIn is a great example of this":http://linkedin.github.com/), most companies should be investing in community growth and acknowledging its importance by hiring individuals dedicated to it. 
+
+h3. Development
+
+The development gains that come with the open source software development model are probably the most frequently-cited reason for building community and when you talk about community management on the internet. Few people recognize or even know that the earliest internet-based community managers were working on open source software. Projects like the "Apache Web Server":http://httpd.apache.org, Linux, and Fetchmail needed moderators to help harness the momentum of the distributed group of hackers motivated enough to contribute. They may not have been called "Community Managers" but that's what they were. "Jono Bacon":https://twitter.com/#!/jonobacon is probably the most visible and praised Community Manager working in open source (for very good reason), and if you haven't read his opus "The Art of Community":http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf go do so. "The Cathedral & The Bazaar":http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar, which, in book form, predates Bacon's work by about ten years, is also required reading for anyone who wants to gain a real appreciate for the origins and importance of community-built things. 
+
+We rely on our community to help us in all areas of the software development cycle. Enthusiastic, smart, passionate users help us with everything from writing code to fixing bugs to reporting issues and testing new releases. We also build out the necessary infrastructure to facilitate ease of contribution; GitHub, our wiki, and our mailing list, for example, are critical to the success of this component. 
+
+h3. Support 
+
+Free software needs someone to support it. Initially this fall to the primary authors of the code as they posses the majority of the knowledge and expertise. Over time, as the user base grows, hopefully in lockstep with documentation and other developer resources, you build a pool of community members who can serve as your first line of support. For Basho and Riak, these support forums are numerous and widespread. The online venues, for example, include:
+
+* Mailing List
+* IRC
+* Twitter
+* Forums like Stack Overflow and Quora (in addition to whatever new one flavor up last week)
+
+Having community members staff (if you will) these support channels means that Basho engineering and support teams are able to spend more time on dedicated Riak development and customer support. 
+
+
+h3. Product Management 
+
+Riak isn't built in a vacuum. We feel we've got an eye on where the data storage market is going, and our product roadmap reflects this, but we also rely on the community to tell us where Riak is falling short and how to improve it. Secondary Indexes and Riak Control, for example, were two components that were driven heavily by production usage and constructive criticisms from the Community.  
+
+Late last year I also started doing something called "Community Conversations," in which I get .... Though, admittedly, my schedule hasn't permitted me to hold as many of these as I would like, they have proved very valuable for our team internally (and if you're using Riak in production and we haven't talked yet, rest assured that I'm coming for you...).
+
+h3. Marketing, and PR
+
+h3. Evangelism 
+
+h3. Sales and Business Development 
+
+h3. Revenue Growth
+
+When dealing with open source specifically, community users both convert to paying customers and recommenend you to their colleagues as "someone who you might want to consider paying for software" 
+
+Raising the number of total users, as well as make your commercial offering powerful enough to increase the percentage of total users that convert to actual customers. Optimally you want to be t
+
+
+Here's the key: all of these functions the community performs should be by-products. The project steward (be they a venture-funded company or a hobbyist) first needs to make good no their commitment to writing, releasing, and supporting quality open source software that solves real problems or is truly useful. Expecting a community to materialize from nothing, to simply help is foolish. 
+
+[Talk about what else they need to get out of the community: see your slide deck.]
+
+We are hiring Technical Evangelists in Boston, New York, and London (with some flexibility on this location). If you're interested in building a home for developers who need databases that actually work, I want to talk to you. 
+
+Mark 
+
+
+
+
+h3. Build A Community Regardless of what you do and base it on open source software.
+
+
+And on the topic of open sourcing, *every* company that depends on quality code for the success of their product should be releasing as much code as possible "without giving away their competitive advantage":http://tom.preston-werner.com/2011/11/22/open-source-everything.html.
+
+
+
+
+
+
+
+
+
+
+
