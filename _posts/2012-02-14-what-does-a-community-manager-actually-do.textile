@@ -1,123 +1,88 @@
 --- 
 layout: newpost
-title: Why Basho Does Community
+title: Why We Invest In Community At Basho
 summary: <p>  </p>
 --- 
 
-A community is composed of users. Anyone with the title "Community Manager" or something similar (Technical Evangelist, for example) should focus their time, effort, and responsibilities on users. No surprises here. Basho deals primarily in open source software, with our flagship project being Riak. I spend most of my time with and round developers who are using Riak or who should be using it (which is all of them). 
+*February 23, 2012*
 
-The purpose of a community is also worth clarifying. **** <- change *** 
-
-Though Basho produces free software, we are a corporation, and are therefore in the business of making money (alongside exceptional software we release). Funding the development of a Community, and hiring people to work explicitly on growing and nurturing it, means it has to provide a return for Basho. We invest in community because they do the following for us:
+Though Basho produces and distributes "free software":http://github.com/basho, we are a corporation, and are therefore in the business of making money. "Riak":http://wiki.basho.com/Riak.html is our flagship offering and as our Community Manager I spend the bulk of my time working with and around this piece of code. Funding the development of a community, and hiring people to work explicitly on growing and nurturing it, means it has to provide a return for Basho. To that end, we invest in community because it fills the following rolls for us:
 
 * Development
 * Support 
 * Product Management 
-* Sales and Business Development
 * Marketing, PR, and Evangelism  
-* Revenue
+* Sales, Business Development, and Revenue Growth
 
-A community doesn't automatically perform all of these functions for an organization. In the case of open source software development is the first area in which you start to see contributions, and even this takes some initial work. I therefore spend my time working to turn the community into a well-oiled machine that provides the biggest returns in all of these areas. 
+A community that performs the above functions can be categorized as "well-functioning". It's my job and the job of Basho to a) produce quality software and b) put the necessary infrastructure in place to allow a well-functioning community to form and grow. And when I say "performs functions" I mean the developers and companies who count themselves as community members actually serve as extensions of the various components of our business. They contribute directly to the success of Basho and future Riak users while building their own applications and empires on our open source software. 
 
-How Basho views the role of a well-functioning community should not be too unique. Aside from the assistance with writing code, restricted to companies that either sell open source software (Basho) or who open source AND MAINTAIN the code that is part of their application ("LinkedIn is a great example of this":http://linkedin.github.com/), most companies should be investing in community growth and acknowledging its importance by hiring individuals dedicated to it. 
+Here's a high-level look at what the community does for Basho and why we invest in it.
 
 h3. Development
 
-The development gains that come with the open source software development model are probably the most frequently-cited reason for building community and when you talk about community management on the internet. Few people recognize or even know that the earliest internet-based community managers were working on open source software. Projects like the "Apache Web Server":http://httpd.apache.org, Linux, and Fetchmail needed moderators to help harness the momentum of the distributed group of hackers motivated enough to contribute. They may not have been called "Community Managers" but that's what they were. "Jono Bacon":https://twitter.com/#!/jonobacon is probably the most visible and praised Community Manager working in open source (for very good reason), and if you haven't read his opus "The Art of Community":http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf go do so. "The Cathedral & The Bazaar":http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar, which, in book form, predates Bacon's work by about ten years, is also required reading for anyone who wants to gain a real appreciate for the origins and importance of community-built things. 
-
-We rely on our community to help us in all areas of the software development cycle. Enthusiastic, smart, passionate users help us with everything from writing code to fixing bugs to reporting issues and testing new releases. Right now we have just under 180 names in "our THANKS file":https://github.com/basho/riak/blob/master/THANKS, and that number is going nowhere but up. We also build out the necessary infrastructure to facilitate ease of contribution; GitHub, our wiki, and our mailing list, for example, are critical to the success of this component. 
+The development gains that come with the open source software development model are probably the most frequently-cited reason for building community.[1] We rely on our community to help us in all areas of the software development cycle. Enthusiastic, smart, passionate users help us with everything from writing code to fixing bugs to reporting issues and testing new releases. Right now we have just under 180 names in "our THANKS file":https://github.com/basho/riak/blob/master/THANKS, and that number is increasing by a new names a week. We also take care to build out the necessary infrastructure to facilitate ease of contribution; GitHub, our wiki, and our mailing list, for example, are essential. 
 
 h3. Support 
 
-Free software needs someone to support it. Initially this fall to the primary authors of the code as they posses the majority of the knowledge and expertise. Over time, as the user base grows, hopefully in lockstep with documentation and other developer resources, you build a pool of community members who can serve as your first line of support. For Basho and Riak, these support forums are numerous and widespread. The online venues, for example, include:
+Free software needs someone to support it. Initially this falls to the primary authors of the code as they posses the majority of the knowledge and expertise **finish**. Over time, as the user base grows (hopefully in lockstep with documentation and other developer resources), you build a pool of community members who can serve as your first line of support. For Basho and Riak, these support forums are numerous and widespread. The online venues, for example, include:
 
-* Mailing List
-* IRC
-* Twitter
-* Forums like Stack Overflow and Quora (in addition to whatever new one flavor up last week)
+* "The Riak Mailing List":http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com
+* Riak IRC on Freenode
+* Twitter 
+* Forums like Stack Overflow and Quora (in addition to whatever new Q&A site popped up last week)
 
-Having community members staff (if you will) these support channels means that Basho engineering and support teams are able to spend more time on dedicated Riak development and customer support. 
-
-*to be continued*
-
+Having community members staff these support channels means that Basho engineering and support teams are able to spend more time on dedicated Riak development and customer support. 
 
 h3. Product Management 
 
-Riak isn't built in a vacuum. We feel we've got an eye on where the data storage market is going, and our product roadmap reflects this, but we also rely on the community to tell us where Riak is falling short and how to improve it. Secondary Indexes and Riak Control, for example, were two components that were driven heavily by production usage and constructive criticisms from the Community.  
+Riak isn't built in a vacuum. We've got an eye on where the data storage market is going, and our product roadmap reflects this, but we also rely on the community to tell us where Riak is falling short and how to improve it. "Secondary Indexes":http://basho.com/blog/technical/2011/09/14/Secondary-Indexes-in-Riak/ and "Riak Control":https://github.com/basho/riak_control, for example, were two components that were driven heavily by production usage and constructive criticisms from the Community.  
 
-Late last year I also started doing something called "Community Conversations," in which I get on Skype for 15-30 minutes with a production user and pick their brain about what's working and what's not with Riak deployment. These are consumed internally (by every member of the Basho team, not just engineers), and are cataloged on the internal wiki for posterity.  Though, admittedly, my schedule hasn't permitted me to hold as many of these as I would like, they have proved very valuable for our team, and if you're using Riak in production and we haven't talked yet, rest assured I'm coming for you.
+Late last year I also started doing something called "Community Conversations," in which I get on Skype for 15-30 minutes with a production user and pick their brain about what's working and what's not with Riak deployment. These are consumed internally (by every member of the Basho team, not just engineers), and are used to get a better sense of how and why Riak is being deployed, and to make sure we are keeping in touch with the user base as much as we can. Though, admittedly, my schedule hasn't permitted me to hold as many of these as I would like, they have proved very valuable for our team, and if you're using Riak in production and we haven't talked yet, rest assured I'm coming for you.
 
 h3. Marketing, PR, and Evangelism 
 
-Adoption of open source is driven by developers. "Executives" might still cut the checks (for the foreseeable future), but it's the people building new applications and/or replacing the legacy technology that bring in new, cutting (bleeding) edge open source technology. So who better to market to developers than developers? 
+Adoption of open source is driven by developers. Executives might still cut the checks, but it's the people building new applications and/or replacing the legacy technology that bring in new, cutting (and bleeding) edge open source technology. So who better to market to developers than developers?  Here are a few examples of how developers serve as a living, breathing extension of Basho's Marketing and PR:
 
-True evangelism is rare. I dream of forging Riak evangelists. Producing more and more is one of the larger goals for the community team at Basho, and if I had it my way the any developer who didn't use Riak would be annoyed at the level of dissent they met from their fellow hackers upon learning they used something like Cassandra of Mongo (use-case permitting, of course). We're getting there... A few examples of how the Community serves as an living, breathing extension of Basho's marketing and PR
+* A gentleman who goes by "Nirvana":http://news.ycombinator.com/user?id=nirvana is one of my favorite members of the Riak Community. (In fact most of the Basho team is fond of him.) I happen to know that he has been heads down building something pretty compelling (based on Riak) for the last few months, but he always seems to have time to speak up on Hacker News and stump for his favorite database. His "contribution on the Riak 1.1 Release comments thread":http://news.ycombinator.com/item?id=3616808 is indicative of how he talks about Riak in public, and I have not doubt that he's converted people into Riak users. 
 
+* Writing and releasing code is a form of evangelism. "Francisco Treacy":https://twitter.com/#!/frank06 took it upon himself to bring Riak to the Node.js community with "riak-js":http://riakjs.org. "Jeremiah Peschka":twitter.com/peschkaj and "OJ Reeves":https://twitter.com/#!/thecolonial thought Riak would be valuable to the .NET world. Unfortunately Basho did not have a .NET client, so they wrote "CorrugatedIron":http://corrugatediron.org/. Another example from just a few days ago: the Engineering Team at "Braintree Payments":http://www.braintreepayments.com/ released a Ruby ORM for Riak called "Curator":https://github.com/braintree/curator.
 
+* Companies like "Posterous":http://posterous.com volunteer their time at local meetups to talk about their move to Riak. Teams like HighGroove record and distribute "internal tech talks about Riak":http://highgroove.com/articles/2012/01/20/tech-talk-on-riak.html.
 
-* "Nirvana":http://news.ycombinator.com/user?id=nirvana is one of my favorite members of the Riak Community. I happen to know that he has been heads down building something pretty compelling for the last few months, but he always seems to have time to speak up on Hacker News and stump for his favorite database. Here was today's contribution on the "Riak 1.1 Release comments thread":http://news.ycombinator.com/item?id=3616808:
+* Last year the team at Linkfluence "wrote an extensive blog post":http://labs.linkfluence.net/nosql/2011/03/07/moving_from_couchdb_to_riak.html about on why they moved from CouchDB to Riak. There are scores of posts like this.
 
+* Just yesterday the team at "kiip.me":http://kiip.me/ announced that "they were moving to Riak from MongoDB":https://twitter.com/#!/ArmonDadgar/status/172405869210894336. This is what it looked like on Twitter:
 
-Note the follow-up comment: "how much does riak pay you?". The answer is "nothing". 
+<img src="/images/kipp_twitter.jpg"/>
 
+These are just a few examples and they all amplify our own evangelism efforts. Make it easy for your community to do marketing and PR for you. No press release will ever match the effectiveness of developers telling other developers about what they use and love. 
 
+h3. Sales, Business Development, and Revenue Growth
 
-* Writing and releasing code is a form of evangelism, too, when you're target audience is developers. Francisco Treacy took it upon himself to bring Riak to the Node.js community. Jeremiah P and OJ R thought Riak would be a of value to the .NET world, and they wrote CorrugatedIron to facilitate such a thing. Another example is the engineering team Braintree payments who, just a few days ago, released a Ruby ORM for Riak called "Curator":https://github.com/braintree/curator.
+One of our biggest users, "Voxer":http://voxer.com/, was introduced to Riak when they were struggling to scale their application on another NoSQL database sometime during the first half of last year. Voxer is a paying customer of Basho's, and it's a been a one-of-a-kind experience watching them grow (and helping them scale) from a lesser-known "walkie talkie app" to the Number one free social Networking App on iOS. (There was a 30 day period at the end of last year where they went from 11 to 80 nodes in production.) How did Voxer get introduced to Riak? Via another one of our paying customers, someone who had experience with Riak in production and the caliber of Basho's commercial offering. 
 
-* Links to a Riak from Couch DBBlog posts about the good and the bad. 
-Riak Meetups (where we facilitate )
+Members of our Engineering team get emails daily that read something like this:
 
-* Link to a meetup video 
+bq. Hey $NAME,
 
-Link to the tweet from Armon. 
+bq. I was at the Clojure meetup last night and saw one of my old colleagues from $FORTUNE_100_COMPANY. Her new startup just got funding and she mentioned they were evaluating data stores for a rewrite of their core platform. After a few minutes I realized that Riak was a great fit, and based on our great experience in production I gave her the hard sell. Long story short, she wants to learn more, specifically about the Multi-Data Center replication. Who should she talk to?
 
+More than 75% of our new customers in 2010 told us they were running OSS Riak in production before they decided to buy software from us. We haven't run the numbers yet for 2011, but I suspect the percentages be the same or higher. This year will be no different, especially as we start to distribute more software. To wit: just last month we had a FORTUNE 100 company approach us after having run *a lot* Riak nodes in production for almost half a year. It was time to buy some software, and so they did. 
 
-
-The most-bloated marketing budget in the world couldn't buy this type of grassroots marketing, awareness, and evangelism. I repeat: make it easy for your community to do marketing and PR for you.
-
-h3. Sales and Business Development 
-
-One of our biggest users, "Voxer":http://basho.com/news/voxer_powered_by_riak/, was introduced to Riak when they were struggling to scale their system out with another NoSQL database sometime during the first half of last year. Voxer is a paying customer of Basho's, it's a been a one-of-a-kind experience watching them grow (and helping them scale) from a lesser-known "walkie talkie app" to the Number one free social Networking App on iOS. Voxer was introduced to Riak via another one of our paying customers, someone who had experience with Riak in production and the caliber of Basho's commercial offering. This happens a lot f
-
-Basho pays non.e.... 
-
-h3. Revenue 
-
-More than 75% of our new deals in 2010 told us they were running OSS Riak in production before they decided us for our enterprise software. We haven't run the numbers yet for 2011, but I suspect they will be the same (if not higher). This should not be surprising. Basho is an open source software company, and most of our users should and will come from our 
+Opportunities and deals like this have short sales cycles, move faster than most salespeople dream of, and don't fall victim to any unforeseen technical or implementation hurdles because the software has already been proven in production. But who knows where the deal originated. Perhaps it was a meetup where a community member spoke about why the loved and hated Riak? Perhaps it was in #riak on Freenode, where trouble shooting a MapReduce issues let to someone being impressed with our community support? Perhaps it was a small portion of a blog in which a production user described how Riak helped to erase a long-standing piece of technical debt. Regardless of where precisely, the origins are undoubtedly in the community. 
 
 
-When dealing with open source specifically, community users both convert to paying customers and recommend you to their colleagues as "someone who you might want to consider paying for software" 
+h3. Building A Well-Functioning Community 
 
-Raising the number of total users, as well as make your commercial offering powerful enough to increase the percentage of total users that convert to actual customers. Optimally you want to be t
+Here's the key: _all of the activities performed by a well-functioning community should be by-products_. In fact they have to be for it to be sustainable. Developers don't come to a new piece of code and say, "Hey, I want to market that software!" They say, "Hmmm. The wiki says it does X, and I need X, and my friend told me it's 'stable as fuck' in production. I guess I'll download a tarball while my espresso brews and see where things go." Only then, after testing, running, breaking, testing, and running in production successfully do they contribute to various parts of the community machine. 
 
-h3. 
+A community doesn't automatically perform all of these functions for an organization like Basho. In the case of open source software, development is the first area in which you start to see contributions, and even this takes some initial work. The project steward (be they a venture-funded company or a hobbyist) first needs to make good on their commitment to writing, releasing, and supporting quality software that solves real problems. Expecting a community to materialize from nothing is foolish, and the up-front investment (in the form of human and monetary resources) is absolutely critical to the formation, growth, and sustainability of your user base. 
 
+Providing a working code is also how you ensure a mutual, positive relationship with your users. You give them software, and in exchange they serve as an extension of your company, helping to drive just about every form of growth imaginable. It's a beautiful thing. 
 
-Here's the key: all of these functions performed by a well-functioning community should be by-products. Developers don't come to a new piece of code and say, "Hey, I want to evangelize that software!" They say, "Hmmm. The wiki says it does X, and I need X, and my friend told me it's 'stable as fuck' in production. I guess so I'll download a tarball while my espresso brews and see where things go."
+How Basho views the role of a well-functioning community should not be too novel. Even if you're not producing open source code, just about everything I've said above can be applied to a company selling some sort of software. Go build a community if you aren't already. And if you want to help Basho turn Riak into a household name, we're hiring "Technical Evangelists":http://basho.com/careers/community-manager/ in Boston, New York, and London. Don't hesitate to get in touch if you're intrigued or think we could be doing thing better. 
 
-
-The project steward (be they a venture-funded company or a hobbyist) first needs to make good on their commitment to writing, releasing, and supporting quality software that solves real problems and is truly useful. Expecting a community to materialize from nothing is foolish, and the up-front investment (in the form of human and monetary resources) is absolutely critical to the formation, growth, and sustainability of your user base. 
-
-Providing a working co******* * is also how you ensure a mutual, positive relationship with your users. You give them software, and in exchange they serve as an extension of your company, helping to drive just about every form of growth imaginable. It's a beautiful thing. 
-
-We are hiring Technical Evangelists in Boston, New York, and London (with some flexibility on this location). If you're interested in building a home for developers who need databases that actually work, I want to talk to you. 
-
-Mark 
-
-
-
-h3. Build A Community Regardless of what you do and base it on open source software.
-
-
-And on the topic of open sourcing, *every* company that depends on quality code for the success of their product should be releasing as much code as possible "without giving away their competitive advantage":http://tom.preston-werner.com/2011/11/22/open-source-everything.html.
-
-
-
-
-
-
-
-
+"Mark":https://twitter.com/pharkmillups 
 
 
 
