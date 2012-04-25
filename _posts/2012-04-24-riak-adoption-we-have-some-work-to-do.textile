@@ -1,0 +1,106 @@
+--- 
+title: Riak Adoption - We Have Some Work To Do
+layout: newpost
+summary: <p>Early last week I read a blog post about the software adoption funnel from Donnie Berkholz, one of the stellar analysts over at RedMonk. Shortly thereafter I sent a message off to the Riak Mailing list asking what Basho needed to do to drive more Riak adoption.</p>
+--- 
+
+*April 24, 2012*
+
+Early last week I read a blog post about "the software adoption funnel":http://redmonk.com/dberkholz/2012/04/18/adoption-of-software-is-a-funnel/ from "Donnie Berkholz":https://twitter.com/#!/dberkholz. (Donnie is one of the stellar analysts over at "RedMonk":http://redmonk.com who, in my opinion, are ahead of most firms when it comes to developer-focused analysis; ignore them at your peril.) Shortly thereafter I sent "a message":http://riak.markmail.org/search/?q=adoption#query:adoption+page:1+mid:kbojnszh4hrfyiys+state:results to the more than 1000 developers on the Riak Mailing list asking the following:
+
+bq. In order to take Riak deployments from the thousands to the hundreds of thousands, what can we be doing better to drive adoption?
+
+The response was exceptional. We've received just under 60 responses which I've summarized below, followed by how we plan to improve Riak in these areas. (_Ordering is not determined by frequency of mentions (+1s), priority or any other metric; just a list of everything our community feels we could be doing better for new and existing users_.) First, the list of suggestions:
+
+*Documentation and Related Resources*
+* An Official or "advanced" book, or some form of official best practices resource
+* Use Case Tutorials (Notifications, Session Stores, etc)
+* Data Modeling  
+* Translation 	
+* Client-specific Guides
+* Spec-like Documentation 
+* Faster updates to documentation and/or some cross references between code and docs 
+* Resources that cater to people with a strong RDBMS background
+* Performance Metrics with Details on Hardware
+* Clearer guidelines around Riak's applicability to various use cases
+
+*Interactive Tools* 
+* Riak "Workbench" 
+* An in-browser tool like "Try Redis":http://try.redis-db.com/
+* Screencasts
+
+*Other*
+* More technical blog posts from the Basho Team 
+* Meetups in the EU
+* Virtual Riak hackathon/coding competition
+* Switch to a Forum instead of a mailing list
+
+*Code* 
+* Client libraries 
+* Added Redis-like functionality around data types, lists, and sets 
+* Make it easier to delete a bucket 
+* Better Pagination Support 
+* Add MultiDC Replication to OSS Riak
+
+
+h3. We Have A Lot To Do 
+
+Basho isn't shy about the work we must do to make Riak more inviting. Our approach to usability has always been, "First, make sure the code works as expected. When this is true, make the rest pretty." We're playing some catch-up, but I'm much happier knowing we need to fix things like documentation as opposed to "make the storage engine not lose data and figure out concurrency."
+
+*Documentation*
+
+As I expected, most of the feedback was about documentation. One of the responses I received was (paraphrasing) "Riak is dead simple to get up and running, but after that I'm not sure how to do what I want to do with it." In other words, show me how to use it. The "Riak Wiki":wiki.basho.com/Riak.html is extensive but arguable falls short when it comes to descriptive resources that address things like use cases, data modeling, and schemas. Additionally, a lot of client libraries have minimal docs, and what does exist is sparse and poorly organized. Some details on what you can expect from us on documentation:
+
+* In short, we are blitzing documentation improvements. We just hired a dedicated documentation lead (a super-talented individual by the name of Seth Benton), and he'll be working on all parts of docs, starting with the wiki. You can expect a lot of visible, incremental improvement in the quality, organization, and depth of our online documentation. With any luck, the design and appearance will also get some love.
+
+* The client libraries are now getting official documentation: Brian Roach and some of our Java users are putting in some great work on the "Java Client Cookbook":https://github.com/basho/riak-java-client/wiki/Cookbook; Sean Cribbs and the Ruby Community will soon have the "Ruby Client Wiki":https://github.com/basho/riak-ruby-client/wiki full of valuable information; and the "Python Client":https://github.com/basho/riak-python-client will have the beginnings of a proper wiki before the week is out. 
+
+* As far as books go, "The Riak Handbook":https://riakhandbook.com has been an met with a lot praise since "Mathias Meyer":https://twitter.com/#!/roidrage released in December of last year. Mathias has plans to make it more comprehensive and from what I'm told you can expect a sizable update to the book in the foreseeable future. We here at Basho highly-recommend it (and thank Mathias for spending time to write, produce, and release the work). 
+
+Some other things worth sharing: 
+
+* Translation of the wiki into a few different languages is in the works; no firm timeline on this but it's on our roadmap.
+* More use case documentation is on our radar.
+
+In short, documentation is the first major adoption roadblock we're planning to eliminate. Keep the feedback coming (bonus points for pull requests), but expect a lot of improvements fast. 
+
+*Interactive Tools*
+
+The suggestions about "Interactive Tools" were all excellent, and there is some work happening at the moment in this area. 
+
+* We "announced Riak Control":http://basho.com/blog/technical/2012/02/22/Riak-Control/, a Riak Admin/GUI, around the beginning of the year, and it has been a supported part of Riak since the 1.1 release. As promised, we'll be adding to Control's functionality. A MapReduce interface is probably the first portion we'll tackle, followed by the ability to browse data (though this could change). On the whole, as Control progresses, it'll alleviate some of the pain associated with "seeing your data" in Riak.
+
+* Short screencasts are in the works. We have stuck to the longer, webinar-like recordings in the past, but the usefulness of sub-five minute, focused tutorials is proven.
+
+* A live, interactive module for Riak is probably the farthest out from being tackled. It would be immensely valuable, but engineering resources are at a premium right now. Rest-assured, it has been discussed. 
+
+*Other*
+
+There is some low-hanging fruit in this category that we'll soon be knocking off:
+
+* We should be writing more technical posts. (We certainly have enough code and cool stuff in the works to warrant it). Time permitting, this will happen.
+* Our presence in Europe is about to become a lot more apparent. Meetups like "BashoChats":http://www.meetup.com/BashoChats/ will be a part of that.
+* Some sort of hackathon makes sense, and we'll be doing a few of these with the help of some friends and partners over the coming months. At some point in the not-so-distant-future we should organize a purely virtual hackathon of sorts. I'll put this on my TODO list. 
+* I'm not convinced switching to a forum-style mailing list thing would improve adoption too much. Google Groups, for example, might look a bit nicer, but has not solved the community mailing list problem just yet. We'll probably stick with the lesser of various evils for the foreseeable future. 
+
+*Code*
+
+On the thread I asked that peoples' responses be limited to non-code suggestions (as we can move things like docs a lot faster). I also didn't want it to devolve into a discussion about how eventual consistency is hard. That said, I knew feature suggestions were inevitable, and they are still extremely valuable. Some relevant developments as they relate to peoples' suggestions about code:
+
+* Client libraries are a huge area of focus for us right now. In addition to the documentation improvements listed above, we're working to standardize the interfaces on all our supported libraries. To that end (though unrelated to the adoption thread) we "launched a survey yesterday":http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-April/008203.html about what the community wants and needs in the client code. We also have a dedicated client team that will be working to make this code shiny and utterly-usable.
+
+* Adding Redis-like functionality around data types, lists, and sets is something that's fundamentally at odds with Riak's eventually-consistent design. That said, we're aware of their usefulness and are investigating ways we can provide some sort of consistency semantics on top of Riak without making claims that don't jive with a little thing called "physics". "Read up on CRDTs":http://hal.inria.fr/docs/00/55/55/88/PDF/techreport.pdf in the meantime... 
+
+Things like delete a bucket and pagination all make sense, but they'll only be tackled as time and architecture permits. As for releasing the Multi Data Center functionality, this won't be happening any time soon. We still need to pay the bills, and Basho is a software company (as opposed to one that just sells support and services). 
+
+*What's Next?*
+
+Thanks to everyone from the community who gave us feedback. It was invaluable. Keep it coming, and don't be scared to call us out when and where you think we are falling short. My email - mark@basho.com - is open 24/7. As I noted above, expect to see most of the initial movement around documentation changes and additions. 	
+
+We're also taking contributions in all of these areas. Adding to the Riak Wiki is a easy as "sending a pull request":https://github.com/basho/riak_wiki. All of our code is no different. I promise that if you write documentation, I'll happily review pull requests until my eyes bleed. And if you're wondering where your time can best be spent, don't hesitate to get in touch.
+
+Thanks for reading, and thanks for being a part of Riak. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+
