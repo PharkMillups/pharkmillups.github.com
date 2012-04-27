@@ -55,7 +55,7 @@ As I expected, most of the feedback was about documentation. One of the response
 
 * The client libraries are now getting official documentation: Brian Roach and some of our Java users are putting in some great work on the "Java Client Cookbook":https://github.com/basho/riak-java-client/wiki/Cookbook; Sean Cribbs and the Ruby Community will soon have the "Ruby Client Wiki":https://github.com/basho/riak-ruby-client/wiki full of valuable information; and the "Python Client":https://github.com/basho/riak-python-client will have the beginnings of a proper wiki before the week is out. 
 
-* As far as books go, "The Riak Handbook":https://riakhandbook.com has been an met with a lot praise since "Mathias Meyer":https://twitter.com/#!/roidrage released in December of last year. Mathias has plans to make it more comprehensive and from what I'm told you can expect a sizable update to the book in the foreseeable future. We here at Basho highly-recommend it (and thank Mathias for spending time to write, produce, and release the work). 
+* As far as books go, "The Riak Handbook":http://riakhandbook.com has been an met with a lot praise since "Mathias Meyer":https://twitter.com/#!/roidrage released in December of last year. Mathias has plans to make it more comprehensive and from what I'm told you can expect a sizable update to the book in the foreseeable future. We here at Basho highly-recommend it (and thank Mathias for spending time to write, produce, and release the work). 
 
 Some other things worth sharing: 
 
