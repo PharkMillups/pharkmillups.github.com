@@ -1,0 +1,31 @@
+--- 
+title: Hiring A Technical Evangelist in the Midwest 
+layout: newpost
+summary: <p>I'm looking for a Technical Evangelist based (approximately) in the Midwest to join me, Tom Santero, and the rest of the distributed Basho Team in our mission to bring Riak and the rest of Basho's open source technology to developers.</p>
+--- 
+
+*May 23, 2012*
+
+I'm looking for a Technical Evangelist based (approximately) in the Midwest to join me, "Tom Santero":https://twitter.com/tsantero, and the rest of the distributed "Basho Team":http://basho.com/company/team/ in our mission to bring "Riak":http://wiki.basho.com/Riak.html and the rest of "Basho's open source technology":https://github.com/basho to developers. 
+
+Qualities that might make you perfect for the position:
+
+* Passionate about databases that work as advertised, especially Riak
+* Lover of open source technology and communities
+* The heart and technical ability of a developer and the mind of a sales person
+* Full of hustle 
+* Like coding but you don't have to code to be happy
+* Excellent writing skills
+* Ability to travel
+* Not afraid to get in front of and engage a crowd
+
+*The Work*
+
+This is fun, stimulating, worthwhile, and tiring work. No day is the same: some days you'll be giving a technical talk to a small team of engineers from a FORTUNE 50 company; other days you'll be at a conference shaking hands with users; on other days you'll be writing a technical blog post about new components of "Riak Core":https://github.com/basho/riak_core. The mission is to drive Riak adoption. Your focus will be on Mid- and Central-US but you'll form a large component of Basho's global community development plan. 
+
+Regardless, you'll wake up every morning and sign online to find a team of like-minded men and women dedicated to the building and proliferation of scalable distributed systems. If any of this interests you, and you happen to live in or close to what one would call "the Midwest", shoot an email to *mark@basho.com*. I want to talk to you. 
+
+"Mark":https://twitter.com/pharkmillups 
+
+
+
