@@ -13,7 +13,7 @@ summary: <p> Technical Evangelists are on the front lines of Riak adoption at Ba
 
 Basho's Community Team in the U.S. is composed of Technical Evangelists ("TEs"). They are developers whose job is to drive adoption of Riak. When needed, they may be called on to help sell software, but this isn't their primary objective. They are developers and ambassadors. 
 
-Here's what you should aim to accomplish throughout the course of your first month. This is of course a living guide, so change it at will if you have good reason. Above all, have fun and take pride in your work. You're on the front-lines for building community around the best open source database on the market. 
+Here's what you should aim to accomplish throughout the course of your first month. This is a living guide, so change it at will if you have good reason. Above all, have fun and take pride in your work. You're on the front-lines for building community around the best open source database on the market. 
 
 **Within The First Week** 
 
