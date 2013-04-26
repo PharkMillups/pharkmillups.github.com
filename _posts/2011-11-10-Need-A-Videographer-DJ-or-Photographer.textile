@@ -1,8 +1,7 @@
 ---
 title: Need a Videographer, DJ, or Photographer? Call These People
 layout: newpost
-summary: <p> The Riak 1.0 Release Party 	would not have been complete without the handful of vendors we used to make it special. Specifically, I’m talking about the videographer, DJ, and photographer. So, I wanted to take a second to recommend them to anyone in the Bay Area who might be in the market for their services.</p>
-	
+summary: <p> The Riak 1.0 Release Party would not have been complete without the handful of vendors we used to make it special. Specifically, I’m talking about the videographer, DJ, and photographer. So, I wanted to take a second to recommend them to anyone in the Bay Area who might be in the market for their services.</p>
 ---
 
 *November 10, 2011*
