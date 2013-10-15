@@ -22,7 +22,7 @@ Riak has no security, something that doesn't sit well with some operators. This 
 
 Andrew's talk description is forthcoming but it's called [Riak Security; Locking the Distributed Chicken Coop](http://lanyrd.com/2013/riconwest/scpgbf/) and it will be a treat. Put it on your calendar. 
 
-### Consistency is Hard but "Joe has a branch for that
+### Consistency is Hard but "Joe has a branch for that"
 
 A running joke at Basho is that Joseph Blomstedt, who goes by [jtuple](http://twitter.com/jtuple), "has a branch for that." But the best jokes are grounded in truth.  Joe [spoke last year](https://vimeo.com/51973001) about our ambitions for offering consistency on top of Riak, and [this year's installment](http://lanyrd.com/2013/riconwest/scmzrk/) will present the evolution of that work along with details on how and when you'll be able to use this code to build production services. 
 
