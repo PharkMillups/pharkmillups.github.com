@@ -41,7 +41,7 @@ Here's what you should aim to accomplish throughout the course of your first mon
 
 --
 
-Does this sound like a fun? Send and email to **mark@basho.com**. We're hiring TEs in Boston, LA, Chicago, DC, Austin, and various other major cities.
+Does this sound like a fun? Send an email to **mark@basho.com**. We're hiring TEs in Boston, LA, Chicago, DC, Austin, and various other major cities.
 
 [Mark](http://twitter.com/pharkmillups) 
 
