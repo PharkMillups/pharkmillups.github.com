@@ -8,7 +8,7 @@ summary: <p>The features and fixes coming to Riak in the 2.0 release will put it
 
 Before you read any further, go [buy a ticket](http://ricon-west-2013.eventbrite.com) for RICON West. There are only 10 left. 
 
-[RICON West](http://ricon.io/west.html) is nicely-timed with the upcoming Riak 2.0 release. Though the code won't be official come October 29th, we'll have something testable - probably a "tech preview" - and people will get a feel for the features and functionality they can expect in production. We've got 23 [talks](http://ricon.io/west.html) in total happening at RICON West, covering the entirety of distributed systems. The Basho Team will giving six, focusing primarily on what's planned in the new release [1]. Here's what you can expect from our developers:
+[RICON West](http://ricon.io/west.html) is nicely-timed with the upcoming Riak 2.0 release. Though the code won't be official come October 29th, we'll have something testable - probably a "tech preview" - and people will get a feel for the features and functionality they can expect in production. We've got 23 [talks](http://ricon.io/west.html) in total happening at RICON West, covering the entirety of distributed systems. The Basho Team will be giving six, focusing primarily on what's planned in the new release [1]. Here's what you can expect from our developers:
 
 ### Data Types and the (forthcoming) End of Redis
 
