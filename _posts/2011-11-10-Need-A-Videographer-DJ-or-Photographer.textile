@@ -15,7 +15,7 @@ h3. Videographer
 If you need anything filmed (talk, presenation, etc.), get in touch with Matt Fisher. Matt responded to a Craigslist ad I put up about a year ago to film the "Riak Meetups":http://www.meetup.com/San-Francisco-Riak-Meetup/ and the various pieces of video he has delivered to me and Basho over this time period have been nothing but stellar. I've been recommending him all over town, and I fully intend to fill his calendar with gigs at area companies. He's a talented videographer and is great to work with on all aspects of filming and production. 
 
 * Contact info: *beatmakermatt@gmail.com*
-* "Website":www.precipitaterecords.wordpress.com 
+* "Website":http://www.precipitaterecords.wordpress.com 
 
 h3. DJ 
 
@@ -32,7 +32,7 @@ Matt, the videographer, hooked me up with a colleague and friend of his named Mi
 
 That's it. Just some recognition for a few talented professionals. Get in touch with them. They will make your lives easier if you find yourself planning and executing an event. 
 
-"Mark":http://twitter.com/#!/pharkmillups 
+"Mark":http://twitter.com/pharkmillups 
 
 
 
